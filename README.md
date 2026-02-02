@@ -1,4 +1,4 @@
 # firstrepo-demo
 This is my demo repository.
 <br>
-Author: Nandani Daga
+Author: Nandani Daga (GGSIPU)
