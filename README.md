@@ -1,3 +1,4 @@
 # firstrepo-demo
-this is demo repo
+This is my demo repository.
+<br>
 Author: Nandani Daga
